@@ -1,5 +1,5 @@
 {
-    "name": "asmpkg/CakeAdminLTE",
+    "name": "asmpkg/cake-admin-lte",
     "description": "CakeAdminLTE plugin for CakePHP",
     "type": "cakephp-plugin",
     "require": {
